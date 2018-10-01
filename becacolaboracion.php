@@ -69,7 +69,7 @@ include ('seguridad3.php');
           <div class="col-sm-4 col-sm-offset-4" style="text-align:center;">
             <div class="form-group">
               <select name='becacolaboracion' id='becacolaboracion' class="form-control">
-                <!-- <option value='No postula'>No deseo postular</option> -->
+                <option value='No postula'>No deseo postular</option>
                 <option value='Beca Colaboracion'>Beca Colaboración</option>
               </select>
             </div>
