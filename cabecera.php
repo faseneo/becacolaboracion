@@ -20,9 +20,14 @@
           </nav>
         </div>
       </div>
+      <div class="row" id="logopostula">
+        <div class="col-sm-12">
+            <center><img src="../img/templates/logo_umce_2018_290.jpg" class="img-rounded"></center>
+        </div>
+      </div>
       <div class="row">
         <div class="col-sm-3">
-          <div>
+          <div class="logos">
             <img src="../img/templates/logo_umce_2018_290.jpg" class="img-rounded">
           </div>
         </div>
@@ -32,7 +37,7 @@
           </div>
         </div>
         <div class="col-sm-3">
-          <div style="float:right;">
+          <div class="logos" style="float:right;">
             <img src="../img/templates/logo_dae_peda_150.png" class="img-rounded">
           </div>
         </div>

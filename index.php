@@ -27,6 +27,9 @@
 
     <!-- styles -->
     <style type="text/css">
+      #logopostula{
+        display: none;
+      }        
       span{color:#f00;}
       .form-signin {
         max-width: 300px;

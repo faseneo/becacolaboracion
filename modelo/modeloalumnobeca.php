@@ -295,7 +295,7 @@ class ModelAlumnoBecas {
                                                      $data->__GET('alumbeca_otrasbecas'),
                                                      $data->__GET('alumbeca_id'),
                                                      $data->__GET('alumbeca_rut')
-                                                        )
+                                                         )
                                                     );
             if($stm==true){
                 if($data->__GET('alumbeca_otrasbecas')=='No postula'){
@@ -304,7 +304,8 @@ class ModelAlumnoBecas {
                     /*var_dump($respuestaelimina);
                     break;*/
                 }else{
-                    $msg="Continua Postulación subiendo archivos pdf";
+                    /*$msg="Continua Postulación subiendo archivos pdf";*/
+                    $msg="Se ha registrado exitosamente la postulación";
                 }
             }
             //var_dump($stm);

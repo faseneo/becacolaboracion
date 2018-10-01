@@ -120,7 +120,7 @@
             }
         });
         $("#myModalLittle").on('hidden.bs.modal', function () {
-            window.location.href="adjuntoarchivos.php";
+            window.location.href="postulacion.php";
         });
         
         //Cambia boton y habilita form para actualizar
