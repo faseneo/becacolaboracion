@@ -44,7 +44,7 @@ include ('seguridad3.php');
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h3 style="text-align:center"><?php if($sexo=='M'){echo "Bienvenido:";}else{echo "Bienvenida:";}?> <?php echo utf8_encode($nombre); ?></h3>
+          <h3 style="text-align:center">Bienvenid@ <?php echo utf8_encode($nombre); ?></h3>
           <hr>
         </div>
       </div>  
